@@ -163,6 +163,19 @@ export default function Index() {
             <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
               <div className="resume-content">
                 <h3 className="mb-0">
+                  Universidade Tecnológica Federal do Paraná (UTFPR)
+                </h3>
+                <div className="subheading mb-3">
+                  MBA em Engenharia de Software
+                </div>
+              </div>
+              <div className="resume-date text-md-right">
+                <span className="text-primary">2021 - 2022</span>
+              </div>
+            </div>
+            <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+              <div className="resume-content">
+                <h3 className="mb-0">
                   Faculdade de Ciências Sociais e Aplicadas do Paraná
                 </h3>
                 <div className="subheading mb-3">
@@ -171,19 +184,6 @@ export default function Index() {
               </div>
               <div className="resume-date text-md-right">
                 <span className="text-primary">2016 - 2019</span>
-              </div>
-            </div>
-            <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-              <div className="resume-content">
-                <h3 className="mb-0">
-                  Universidade Tecnológica Federal do Paraná (UTFPR)
-                </h3>
-                <div className="subheading mb-3">
-                  MBA em Engenharia de Software
-                </div>
-              </div>
-              <div className="resume-date text-md-right">
-                <span className="text-primary">2021</span>
               </div>
             </div>
           </div>
