@@ -1,6 +1,6 @@
 import React from "react";
 
-import profileImg from "../../assets/images/profile.png";
+import profileImg from "../../assets/images/profile.jpg";
 
 export default function Index() {
   return (
