@@ -118,7 +118,56 @@ export default function Index() {
 
             <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
               <div className="resume-content">
-                <h3 className="mb-0">Analista PDI</h3>
+                <h3 className="mb-0">Software Developer</h3>
+                <div className="subheading mb-3">Senior Sistemas</div>
+                <p className="text-justify">
+                Atuo como Desenvolvedor Java na Squad HCM - Gestão de Recursos Humanos (GDP) e eSocial (SST), são novos sistemas distribuídos na Nuvem, utilizando
+                tecnologias como Spring Boot, RabbitMQ e PostgreSQL. Utilizamos a metodologia Kanban Agile, e nosso objetivo é entregar uma nova experiência em gestão
+                de pessoas, com foco em toda a rotina do Departamento de Recursos Humanos, bem como rotinas do eSocial, geração de eventos, layouts e integração com
+                sistemas de terceiros.
+                  <ul className="fa-ul mb-0">
+                    <li>
+                      <i className="fa-li fa fa-circle fa-xs"></i>
+                      Spring Boot
+                    </li>
+                    <li>
+                      <i className="fa-li fa fa-circle fa-xs"></i>
+                      Java Persistence API e Hibernate.
+                    </li>
+                    <li>
+                      <i className="fa-li fa fa-circle fa-xs"></i>
+                      Serviços de mensageria RabbitMQ.
+                    </li>
+                    <li>
+                      <i className="fa-li fa fa-circle fa-xs"></i>
+                      Testes unitários com JUnit.
+                    </li>
+                    <li>
+                      <i className="fa-li fa fa-circle fa-xs"></i>
+                      Análise automática de qualidade de código com SonarQube.
+                    </li>
+                    <li>
+                      <i className="fa-li fa fa-circle fa-xs"></i>
+                      Utilização da metodologia ágil Kanban.
+                    </li>
+                    <li>
+                      <i className="fa-li fa fa-circle fa-xs"></i>
+                      Atuação em implantação e manutenção de sistemas em
+                      produção.
+                    </li>
+                  </ul>
+                </p>
+              </div>
+              <div className="resume-date text-md-right">
+                <span className="text-primary">
+                  2023 - Até o momento
+                </span>
+              </div>
+            </div>
+
+            <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+              <div className="resume-content">
+                <h3 className="mb-0">Desenvolvedor PDI</h3>
                 <div className="subheading mb-3">SENAI PR</div>
                 <p className="text-justify">
                   Desenvolvedor Java EE e líder técnico:
@@ -180,7 +229,7 @@ export default function Index() {
               </div>
               <div className="resume-date text-md-right">
                 <span className="text-primary">
-                  Julho de 2020 - Até o momento
+                  Julho de 2020 - 2023
                 </span>
               </div>
             </div>
