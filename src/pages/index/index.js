@@ -239,20 +239,19 @@ export default function Index() {
                 <h3 className="mb-0">Estagiário</h3>
                 <div className="subheading mb-3">TUXNET IT Solutions</div>
                 <p className="text-justify">
-                  Desenvolvedor Java EE:
+                  Estagiário de TI
                   <ul className="fa-ul mb-0">
                     <li>
                       <i className="fa-li fa fa-circle fa-xs"></i>
-                      Desenvolvimento de sites com JavaServer Faces e
-                      PrimeFaces.
+                      Manutenção de computadores.
                     </li>
                     <li>
                       <i className="fa-li fa fa-circle fa-xs"></i>
-                      Utilização da tecnologia de persistência Hibernate.
+                      Instalação de sistemas operacionais e servidores.
                     </li>
                     <li>
                       <i className="fa-li fa fa-circle fa-xs"></i>
-                      Testes unitários com JUnit e Arquillian.
+                      Configuração de rede e roteador.
                     </li>
                   </ul>
                 </p>
